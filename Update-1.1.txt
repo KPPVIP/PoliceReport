@@ -1,0 +1,14 @@
+Update:
+
+It is necessary to delete the policereports table in the database.
+
+* It is now possible to place multiple coordinates for the npc and computer.
+
+* Now the player will have to wait a predetermined time to make a new report.
+
+* If a player has already made a report and then makes another report, 
+the previous one will be deleted. 
+That is, there will only be one police report per player. 
+This will make it more organized.
+
+* Now NPC is imortal
